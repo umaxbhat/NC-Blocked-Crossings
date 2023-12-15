@@ -19,7 +19,7 @@ Blocked train crossings aren't only affecting Nash County. Across the country, t
 
 In Nash County, one observer commented: "School buses could not get to students". 
 
-Another noted that blocked train crossings were an "ALL DAY/ EVERY DAY ISSUE".  
+Another noted that blocked train crossings were an "ALL DAY / EVERY DAY ISSUE".  
 
 "This crossing is blocked at least 3 times a week," another observer wrote.
 
