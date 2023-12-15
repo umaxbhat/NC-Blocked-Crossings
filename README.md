@@ -7,7 +7,7 @@ This final project for Data-Driven Journalism (MEJO 570) at UNC-Chapel Hill anal
 A detailed methodology with the code running procedures can be found at umabhat.github.io. 
 
 # Summary of Findings
-In Nash County, regularly blocked rail crossings have obstructed the path of first responders and caused pedestrians to climb over train cars, according to complaints logged over the past five years with the Federal Railway Administration. 
+In Nash County, regularly blocked rail crossings have obstructed the path of first responders and caused pedestrians to climb over train cars, according to complaints logged over the past five years with the Federal Railroad Administration. 
 
 Observers reported more than 100 blocked train crossings in Nash County since 2019. Most instances involved stationary trains along CSX-owned railroads blocking crossings from anywhere between 0-15 minutes to, in one reported instance, 6-12 hours. 
 
