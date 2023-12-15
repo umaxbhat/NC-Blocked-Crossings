@@ -4,7 +4,7 @@
 This final project for Data-Driven Journalism (MEJO 570) at UNC-Chapel Hill analyzes patterns in the Federal Railroad Administration's blocked crossing complaint database specific to North Carolina. The data for this project is primarily sourced from the Federal Railroad Administration's Public Blocked Crossing Incident Reporter database. It also references the locations of different train crossings in North Carolina, which can be found in the Federal Railroad Administration's Crossing Inventory Data database.
 
 # Methodology 
-A detailed methodology with the code running procedures can be found at this link. 
+A detailed methodology with the code running procedures can be found at umabhat.github.io. 
 
 # Summary of Findings
 In Nash County, regularly blocked rail crossings have obstructed the path of first responders and caused pedestrians to climb over train cars, according to complaints logged over the past five years with the Federal Railway Administration. 
