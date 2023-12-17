@@ -11,7 +11,7 @@ In Nash County, regularly blocked rail crossings have obstructed the paths of fi
 
 Observers reported more than 100 instances of blocked train crossings in Nash County since 2019. Most instances involved stationary trains along CSX-owned railroads blocking crossings from anywhere between 0-15 minutes to, in one reported instance, 6-12 hours. 
 
-More than 80 instances occurred along a Tarboro Road crossing in Rocky Mount. But most instances that occurred in the county appeared to sit along a single rail line on the Nash-Wilson county border. 
+More than 80 instances occurred along a Tarboro Road crossing in Rocky Mount. But most instances that occurred in the county appeared to sit along a single rail line on the Nash-Edgecombe county border. 
 
 Rocky Mount is home to a large Pfizer site that sits adjacent to the rail line along which observers reported the most blocked crossings. 
 
