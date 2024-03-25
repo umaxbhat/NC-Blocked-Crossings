@@ -1,4 +1,4 @@
-# MEJO570_Final
+# NC Blocked Crossings
 
 # Description  
 This final project for Data-Driven Journalism (MEJO 570) at UNC-Chapel Hill analyzes patterns in the Federal Railroad Administration's blocked crossing complaint database specific to North Carolina. The data for this project is primarily sourced from the Federal Railroad Administration's Public Blocked Crossing Incident Reporter database. It also references the locations of different train crossings in North Carolina, which can be found in the Federal Railroad Administration's Crossing Inventory Data database.
